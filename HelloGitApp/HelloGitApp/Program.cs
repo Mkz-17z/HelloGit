@@ -11,6 +11,8 @@ namespace HelloGitApp
         static void Main(string[] args)
         {
             Console.WriteLine("Hello Git ?");
+            Console.WriteLine("Quel est ton prenom ");
+            Console.ReadLine();
         }
     }
 }

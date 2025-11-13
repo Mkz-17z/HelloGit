@@ -1,0 +1,7 @@
+C:\Users\Admin\HelloGit\HelloGitApp\HelloGitApp\bin\Debug\HelloGitApp.exe.config
+C:\Users\Admin\HelloGit\HelloGitApp\HelloGitApp\bin\Debug\HelloGitApp.exe
+C:\Users\Admin\HelloGit\HelloGitApp\HelloGitApp\bin\Debug\HelloGitApp.pdb
+C:\Users\Admin\HelloGit\HelloGitApp\HelloGitApp\obj\Debug\HelloGitApp.csproj.AssemblyReference.cache
+C:\Users\Admin\HelloGit\HelloGitApp\HelloGitApp\obj\Debug\HelloGitApp.csproj.CoreCompileInputs.cache
+C:\Users\Admin\HelloGit\HelloGitApp\HelloGitApp\obj\Debug\HelloGitApp.exe
+C:\Users\Admin\HelloGit\HelloGitApp\HelloGitApp\obj\Debug\HelloGitApp.pdb

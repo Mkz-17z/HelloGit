@@ -13,6 +13,11 @@ namespace HelloGitApp
             Console.WriteLine("Hello Git ?");
             Console.WriteLine("Quel est ton prenom ");
             Console.ReadLine();
+            Fonctiom();
+        }
+        public static void Fonctiom()
+        {
+            Console.WriteLine("Slt");
         }
     }
 }
